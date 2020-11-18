@@ -1,4 +1,4 @@
 [build]
-publish = “public”
+publish = "public"
 command = "hugo --theme=hugo-theme-codex --buildDrafts --gc --minify"
 

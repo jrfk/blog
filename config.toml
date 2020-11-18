@@ -2,9 +2,9 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
-languageCode = "en-us"
-baseURL = "https://example.org/"
+title = "blog"
+languageCode = "ja"
+baseURL = "https://blog.jrfk.dev/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
