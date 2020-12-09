@@ -1,6 +1,6 @@
 ---
-heading: "Hi,blog "
+heading: "日本システム義塾"
 subheading: "Nice to meet you."
-handle: "jrfk"
+handle: "Japan Sysmte Gijuku Inc. Please call me like"
 ---
 
