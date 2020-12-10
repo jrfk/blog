@@ -22,17 +22,17 @@ copyright = "© {year}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/JunyaFff"
   github = "https://github.com/jrfk"
-  # email = "mailto:<your email>"
-  # facebook = "https://facebook.com/<your handle>"
-  # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
+  email = "mailto:<your email>"
+  facebook = "https://facebook.com/"
+  gitlab = "https://gitlab.com/"
+  instagram = "https://instagram.com/"
   # linkedin = "<link to your profile>"
-  # youtube = "https://www.youtube.com/channel/<your channel>"
+  youtube = "https://www.youtube.com/"
   
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "YouTube"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
